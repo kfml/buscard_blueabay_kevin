@@ -7,7 +7,7 @@ ORG:Soaflow;
 TITLE:Founder and CEO
 EMAIL;type=INTERNET;type=WORK;type=pref:kevin@soaflow.com
 TEL;type=MOBILE;type=VOICE:+41 78 858 1361
-item1.ADR;type=WORK;type=pref:;;8808 Pfäffikon SZ;;;Switzerland
+item1.ADR;type=WORK;type=pref:;;8808 Pfäffikon SZ;;;Schwyz;Switzerland
 item1.X-ABADR:sg
 item2.URL;type=pref:soaflow.com
 item2.X-ABLabel:_$!<HomePage>!$_
